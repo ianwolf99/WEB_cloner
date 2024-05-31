@@ -25,8 +25,8 @@ Ensure you have the following installed on your system:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/web-copier-script.git
-cd web-copier-script
+git clone https://github.com/ianwolf99/WEB_cloner.git
+cd WEB_cloner
 ```
 
 ## Configuration

@@ -64,7 +64,7 @@ cd WEB_cloner
 Run the script with the target website URL as an argument:
 
 ```bash
-./copy_website.sh <website_url>
+./web_copy.sh <website_url>
 ```
 
 ### Example
@@ -72,7 +72,7 @@ Run the script with the target website URL as an argument:
 To copy a website:
 
 ```bash
-./copy_website.sh https://example.com
+./web_copy.sh https://example.com
 ```
 
 The script will:
@@ -98,4 +98,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to adjust any part of this `README.md` to better suit your needs or reflect any additional details specific to your project.
